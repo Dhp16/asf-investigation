@@ -19,6 +19,8 @@ To run the code to generate any of the data refered to below, open `ASF_investig
 
 ### Part 2: How useful can this data be in anticipating a Chinese ban on pork imports?
 
+Why China? China is of the world's largest importers of pork. 
+
 **1. Italy:**
 China re-approved pork imports from Italy in September 2016 after a 17 year ban In this data we later find the earliest case reported to be the **5th of January 2022**.
 With the Chinese ban being announced on January 26th 2022. It would have been possible to anticipate the ban.
@@ -55,3 +57,15 @@ their [distribution list](https://www.woah.org/en/what-we-do/animal-health-and-w
 **3. Further Comments:**
 Further research suggested that many other factors were impacting pork price in the years of 2016 to 2024 other than
 ASF, including amongst other things the rising cost of energy and feed. 
+
+### Part 4: Could ASF have an influence on herd price in Europe?
+
+**1. Data source:**
+
+- Retrieved data on herd sizes from the European Comission statistics database: https://ec.europa.eu/eurostat/data/database?node_code=tag00018
+- Ideally I would have found the data for animal code A3200 (Breeding Sows) which are a good forward indicator of future herd size, 
+unfortunately I could only find data for A3100.
+
+**2. Observations:**
+- Herd size in Poland appears uncorrelated with the number of cases of ASF.
+![Herd size in poland vs ASF cases](plots/herd_size_vs_asf_cases_in_poland.svg)
