@@ -46,7 +46,8 @@ their [distribution list](https://www.woah.org/en/what-we-do/animal-health-and-w
 **2. Observations:**
 
 - Significant volatility in the pork prices across different European countries.
-- **Calculate the correlation between n cases and price**
+- The correlation between the Average EU Price for 100kg Grade E carcase and the number of reported ASF cases between 
+January 2016 and January 2024 is 0.3675. 
 - Reported ASF do not appear to be a good predictor of pork price on a monthly/yearly scale though might be over shorter time horizon.
 
 ![Prices in europe against ASF](plots/combined_price_and_asf_cases.svg)
@@ -54,10 +55,11 @@ their [distribution list](https://www.woah.org/en/what-we-do/animal-health-and-w
 
 
 **3. Further Comments:**
+**3. Further Comments:**
 Further research suggested that many other factors were impacting pork price in the years of 2016 to 2024 other than
 ASF, including amongst other things the rising cost of energy and feed. 
 
-### Part 4: Could ASF have an influence on herd price in Europe?
+### Part 4: Could ASF have an influence on herd size in Europe?
 
 **1. Data sources:**
 
