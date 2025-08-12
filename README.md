@@ -4,7 +4,7 @@ To run the code to generate any of the data refered to below, open `ASF_investig
 
 ### Part 1: Investigating reported instances of ASF
 
-**1. Data source**: 
+**1. Data sources**: 
 
 - Food and Agriculture Organisation of the United Nations: https://europe-west1-fao-empresi.cloudfunctions.net/getDiseaseEvents?disease_name=african_swine_fever&animal_type=all&diagnosis_status=confirmed&end_date=2025-08-07&start_date=2000-05-07
 - Link for the general API of the Foor and Agriculture Organization of the United Nations: https://empres-i.apps.fao.org/general
@@ -26,7 +26,7 @@ With the Chinese ban being announced on January 26th 2022. It would have been po
 ![Cases in italy](plots/asf_instances_in_italy.svg)
 
 **2. Germany:** 
-The first reported case found in the dataset for Germany was **9th of September 2020** for a case observed **7th of September**,
+The first reported case found in the dataset for Germany was **9th of September 2020** for a case observed **7th of September 2020**,
 China banned imports of pork from Germany on September 14th 2020. It would have been possible to anticipate such ban.
 
 Other cases that could be investigated include Indonesia and Viet Nam.
@@ -38,7 +38,7 @@ their [distribution list](https://www.woah.org/en/what-we-do/animal-health-and-w
 
 ### Part 3: Did ASF impact the price of pork in Europe (Cracase Grade E) ?
 
-**1. Data source:**
+**1. Data sources:**
 
 - For porc prices across europe, data was taken from the European Comission pigmeat statistics: https://agriculture.ec.europa.eu/data-and-analysis/markets/overviews/market-observatories/meat/pigmeat-statistics_en
 - An alternative source for the same data is: https://ahdb.org.uk/pork/eu-deadweight-pig-prices
@@ -49,7 +49,7 @@ their [distribution list](https://www.woah.org/en/what-we-do/animal-health-and-w
 - **Calculate the correlation between n cases and price**
 - Reported ASF do not appear to be a good predictor of pork price on a monthly/yearly scale though might be over shorter time horizon.
 
-![Prices in europe against ASF](plots/combined_price_and_reported_cases.svg)
+![Prices in europe against ASF](plots/combined_price_and_asf_cases.svg)
 ![Prices in europe](plots/pork_price_in_european_countries.svg)
 
 
