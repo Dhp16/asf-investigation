@@ -21,7 +21,7 @@ Why China? China is one of the world's largest importers of pork.
 
 **1. Italy:**
 China re-approved pork imports from Italy in September 2016 after a 17 year ban In this data we later find the earliest case reported to be the **5th of January 2022**.
-With the Chinese ban being announced on January 26th 2022. It would have been possible to anticipate the ban.
+With the Chinese ban being announced on **January 26th 2022**. It would have been possible to anticipate the ban.
 
 ![Cases in italy](plots/asf_instances_in_italy.svg)
 
