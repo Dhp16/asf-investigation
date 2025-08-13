@@ -1,4 +1,4 @@
-## Investigation into ASF and it's impact on herd sizes and pork prices
+## Investigation into ASF and it's impact on herd sizes and pork prices (work in progress)
 
 To run the code to generate any of the data refered to below, open `ASF_investigation.ipynb` in jupyter-notebook.
 
