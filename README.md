@@ -17,7 +17,7 @@ To run the code to generate any of the data refered to below, open `ASF_investig
 
 ### Part 2: How useful can this data be in anticipating a Chinese ban on pork imports?
 
-Why China? China is of the world's largest importers of pork. 
+Why China? China is one of the world's largest importers of pork. 
 
 **1. Italy:**
 China re-approved pork imports from Italy in September 2016 after a 17 year ban In this data we later find the earliest case reported to be the **5th of January 2022**.
@@ -54,7 +54,6 @@ January 2016 and January 2024 is 0.3675.
 ![Prices in europe](plots/pork_price_in_european_countries.svg)
 
 
-**3. Further Comments:**
 **3. Further Comments:**
 Further research suggested that many other factors were impacting pork price in the years of 2016 to 2024 other than
 ASF, including amongst other things the rising cost of energy and feed. 
